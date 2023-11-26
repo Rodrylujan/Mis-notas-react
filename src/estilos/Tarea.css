@@ -1,0 +1,27 @@
+
+
+.tarea-contenedor{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    margin: 15px 0;
+    background-color: #1b1b32;
+    border-radius: 10px ;
+    border: 1px solid white;
+    cursor: pointer;
+} 
+
+.completada{
+  background-color: #00DB16;
+  text-decoration: line-through;
+}
+.tarea-texto {
+    flex: 1;
+    margin-right: 10px;
+  }
+.tarea-icono {
+    width: 25px;
+    height: 25px;
+    margin: 5px;
+  }
