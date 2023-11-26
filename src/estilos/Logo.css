@@ -1,4 +1,3 @@
-/* Estilos para el contenedor del logo */
 .Contenedor-logo {
   width: 100%;
   height: 40px;
@@ -29,6 +28,7 @@ li {
 #titulo-3{
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
+
 
 @keyframes cambiar {
   0% {
